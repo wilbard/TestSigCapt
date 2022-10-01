@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="flsx">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/flsx.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/wgssLicenceJNI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
